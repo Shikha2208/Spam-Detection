@@ -17,7 +17,7 @@ from sklearn.model_selection import train_test_split
 # In[39]:
 
 
-data = pd.read_csv('E:/SHIKHA_FOLDER/My Machine learnig/Email-spam-detection/spam.csv',encoding='latin-1')
+data = pd.read_csv('spam.csv',encoding='latin-1')
 
 
 # In[40]:
